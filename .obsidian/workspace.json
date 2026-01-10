@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "353b33c40b1d7005",
+        "id": "9b5d2fb042887283",
         "type": "tabs",
         "children": [
           {
-            "id": "08f027cc518923bf",
+            "id": "05de9c25fc962f58",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/appearance.json",
-                "bFile": ".obsidian/appearance.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: appearance.json  (Working Tree)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -192,8 +188,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08f027cc518923bf",
+  "active": "0773c3966a8633c5",
   "lastOpenFiles": [
-    "Untitled.base"
+    "workspace.json",
+    "Templates/Nota.md",
+    "Templates",
+    "Pasted image 20251030162707.png",
+    "Pasted image 20251030162650.png",
+    "Pasted image 20251030162427.png",
+    "Pasted image 20251030162419.png",
+    "Pasted image 20251007160739.png",
+    "Pasted image 20251007160736.png",
+    "Pasted image 20250811194432.png",
+    "Pasted image 20250616215925.png",
+    "Pasted image 20250616111644.png",
+    "Pasted image 20250610164102.png",
+    "MANAGER.md",
+    "graph.json",
+    "core-plugins.json",
+    "appearance.json",
+    "app.json",
+    "4 - Tags/self learning.md",
+    "4 - Tags/security.md",
+    "4 - Tags/scalability.md",
+    "4 - Tags/pragmatism.md",
+    "4 - Tags/performance.md",
+    "4 - Tags/patterns.md",
+    "4 - Tags/observability.md",
+    "4 - Tags/network pattern.md",
+    "4 - Tags/my paradigms.md",
+    "4 - Tags/math.md",
+    "4 - Tags/low-level.md",
+    "4 - Tags/database.md",
+    "4 - Tags/blockchain.md",
+    "4 - Tags/architecture.md",
+    "4 - Tags/alternatives tricks.md",
+    "4 - Tags/MVC.md",
+    "4 - Tags/KISS.md",
+    "4 - Tags/Germany.md",
+    "4 - Tags/DDD.md",
+    "4 - Tags/CQRS.md",
+    "4 - Tags/AWS.md",
+    "4 - Tags",
+    "3 - Zettlekaster - Permanent/_Metal de sacrifício_ at performance.md",
+    "3 - Zettlekaster - Permanent/Write and share private knowledges.md",
+    "3 - Zettlekaster - Permanent",
+    "2 - Sources Material - Literatures/Video",
+    "2 - Sources Material - Literatures/Books",
+    "2 - Sources Material - Literatures/Articles",
+    "Untitled.canvas"
   ]
 }
