@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "461420cbd0620918",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c1033ad5ebd519c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1257daea5702aef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Zettlekaster/Taking smart notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Taking smart notes"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fc78d878a1d054b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff3c40d19c584de6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "661d20c65a7d2795",
+    "type": "split",
+    "children": [
+      {
+        "id": "73773d8d0378b986",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af14ba6f1c05b018",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7d4a5a95f467b1d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d24873495d0e7e3a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99b47c34ff024cc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea5d8187f885f319",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1fe66f22bef302c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "11198c18da4a17bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b6a85281536e29fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2bb4a064613a311e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ff3c40d19c584de6",
+  "lastOpenFiles": [
+    "3 - Zettlekaster/Taking smart notes.md",
+    "4 - Tags/DDD.md",
+    "Welcome.md",
+    "3 - Zettlekaster",
+    "1 - Rough Notes/Moving ideas from DDD bounded contexts to MVC scaffolding.md",
+    "4 - Tags/self learning.md",
+    "4 - Tags/MVC.md",
+    "4 - Tags",
+    "2 - Sources Material/Articles",
+    "create a link.md",
+    "2 - Sources Material",
+    "1 - Rough Notes",
+    "2025-03-24.md",
+    "Untitled.canvas"
+  ]
+}
