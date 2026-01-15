@@ -8,3 +8,7 @@ Taking decisions:
 
 Behaves:
 [[Building your portfolio]]
+[[Critical Thinking]]
+
+Pragmatic Approach
+

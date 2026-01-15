@@ -10,9 +10,11 @@
           {
             "id": "05de9c25fc962f58",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -49,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pragmatic programmer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,8 +190,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0773c3966a8633c5",
+  "active": "05de9c25fc962f58",
   "lastOpenFiles": [
+    "2 - Sources Material - Literatures/Books/Book - The pragmatic programmer.md",
+    "3 - Zettlekaster - Permanent/Bulding something unexisting.md",
+    "3 - Zettlekaster - Permanent/Do not execuse, give alternatives instead.md",
+    "3 - Zettlekaster - Permanent/Don_t create a canon at first, be able to expect them.md",
+    "3 - Zettlekaster - Permanent/Don_t log insecure information.md",
+    "3 - Zettlekaster - Permanent/Don_t over encapsulate.md",
+    "3 - Zettlekaster - Permanent/Doubling Time.md",
+    "3 - Zettlekaster - Permanent/Trace bullets.md",
+    "Pasted image 20260114091548.png",
+    "3 - Zettlekaster - Permanent/Critical Thinking.md",
+    "3 - Zettlekaster - Permanent/_Metal de sacrifício_ at performance.md",
+    "3 - Zettlekaster - Permanent/Evil Duplication.md",
+    "3 - Zettlekaster - Permanent/Performance in domain operations.md",
+    "3 - Zettlekaster - Permanent/Building your portfolio.md",
     "workspace.json",
     "Templates/Nota.md",
     "Templates",
@@ -202,7 +218,6 @@
     "Pasted image 20250811194432.png",
     "Pasted image 20250616215925.png",
     "Pasted image 20250616111644.png",
-    "Pasted image 20250610164102.png",
     "MANAGER.md",
     "graph.json",
     "core-plugins.json",
@@ -219,23 +234,10 @@
     "4 - Tags/my paradigms.md",
     "4 - Tags/math.md",
     "4 - Tags/low-level.md",
-    "4 - Tags/database.md",
-    "4 - Tags/blockchain.md",
-    "4 - Tags/architecture.md",
-    "4 - Tags/alternatives tricks.md",
-    "4 - Tags/MVC.md",
-    "4 - Tags/KISS.md",
-    "4 - Tags/Germany.md",
-    "4 - Tags/DDD.md",
-    "4 - Tags/CQRS.md",
-    "4 - Tags/AWS.md",
     "4 - Tags",
-    "3 - Zettlekaster - Permanent/_Metal de sacrifício_ at performance.md",
-    "3 - Zettlekaster - Permanent/Write and share private knowledges.md",
     "3 - Zettlekaster - Permanent",
     "2 - Sources Material - Literatures/Video",
     "2 - Sources Material - Literatures/Books",
-    "2 - Sources Material - Literatures/Articles",
     "Untitled.canvas"
   ]
 }

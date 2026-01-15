@@ -10,5 +10,3 @@ Be a investor of knowledge
 Examples:
 - Learn a new language every year
 - Read technical and non technical books
-
-[[Critical Thinking]]
