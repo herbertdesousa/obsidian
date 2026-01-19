@@ -13,5 +13,5 @@ Use when:
 	- Architectures
 	- Thirty-party integration
 	- Performance issues
-a
+
 Apply [[Try to break things - Orthogonal architecture]]
