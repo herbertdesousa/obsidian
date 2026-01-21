@@ -11,4 +11,6 @@ Behaves:
 [[Critical Thinking]]
 
 Pragmatic Approach
+[[Try to break things - Orthogonal architecture]]
+[[Trace bullets]]
 
