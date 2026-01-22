@@ -15,3 +15,4 @@ Use when:
 	- Performance issues
 
 Apply [[Try to break things - Orthogonal architecture]]
+
