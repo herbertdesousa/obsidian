@@ -20,73 +20,51 @@
             }
           },
           {
-            "id": "c897bdfba8d78397",
+            "id": "2efe70388e3f4aea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettlekaster - Permanent/How accurate do you want the estimation?.md",
+                "file": "3 - Zettlekaster - Permanent/Don't outrun your headlights.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "How accurate do you want the estimation?"
+              "title": "Don't outrun your headlights"
             }
           },
           {
-            "id": "9ec39aad4f6bb60d",
+            "id": "11ac2f4a88406e5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettlekaster - Permanent/When estimating accurate answers but got blurred vision build *Mental model*.md",
+                "file": "3 - Zettlekaster - Permanent/Building an architecture that you never did before, make it simple at the first time.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "When estimating accurate answers but got blurred vision build *Mental model*"
-            }
-          },
-          {
-            "id": "a39972176589e107",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Zettlekaster - Permanent/Large estimating sounds breakable.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Large estimating sounds breakable"
-            }
-          },
-          {
-            "id": "3ba0bf8395431466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Zettlekaster - Permanent/Given an estimating complete your answer with parameters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Given an estimating complete your answer with parameters"
-            }
-          },
-          {
-            "id": "631d13a2cbe8d8e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Zettlekaster - Permanent/Focus on multiplier not adder parameters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Focus on multiplier not adder parameters"
+              "title": "Building an architecture that you never did before, make it simple at the first time"
             }
           }
         ],
@@ -122,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "architecture",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 - Zettlekaster - Permanent/Don't outrun your headlights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Don't outrun your headlights"
             }
           },
           {
@@ -261,34 +240,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c897bdfba8d78397",
+  "active": "2efe70388e3f4aea",
   "lastOpenFiles": [
-    "3 - Zettlekaster - Permanent/Estimating.md",
-    "3 - Zettlekaster - Permanent/When estimating, understand the problem.md",
-    "3 - Zettlekaster - Permanent/When estimating accurate answers but got blurred vision build *Mental model*.md",
-    "3 - Zettlekaster - Permanent/How accurate do you want the estimation?.md",
-    "3 - Zettlekaster - Permanent/Large estimating sounds breakable.md",
-    "3 - Zettlekaster - Permanent/Given an estimating complete your answer with parameters.md",
-    "4 - Tags/pragmatism.md",
-    "4 - Tags/estimating.md",
-    "3 - Zettlekaster - Permanent/Focus on multiplier not adder parameters.md",
-    "3 - Zettlekaster - Permanent/Bulding something unexisting.md",
-    "3 - Zettlekaster - Permanent/_Metal de sacrifício_ at performance.md",
-    "3 - Zettlekaster - Permanent/Trace bullets.md",
-    "2 - Sources Material - Literatures/Books/Book - The pragmatic programmer.md",
-    "3 - Zettlekaster - Permanent/Try to break things - Orthogonal architecture.md",
-    "3 - Zettlekaster - Permanent/Do not execuse, give alternatives instead.md",
-    "3 - Zettlekaster - Permanent/Don_t create a canon at first, be able to expect them.md",
-    "3 - Zettlekaster - Permanent/Don_t log insecure information.md",
-    "3 - Zettlekaster - Permanent/Don_t over encapsulate.md",
-    "3 - Zettlekaster - Permanent/Doubling Time.md",
-    "Pasted image 20260114091548.png",
-    "3 - Zettlekaster - Permanent/Critical Thinking.md",
+    "3 - Zettlekaster - Permanent/ADR vs RFC.md",
+    "3 - Zettlekaster - Permanent/Building an architecture that you never did before, make it simple at the first time.md",
+    "4 - Tags/architecture.md",
+    "3 - Zettlekaster - Permanent/Don't outrun your headlights.md",
+    "4 - Tags/leadership.md",
+    "3 - Zettlekaster - Permanent/Assertive programming.md",
+    "3 - Zettlekaster - Permanent/When face a bug replicate on tests.md",
+    "Pasted image 20260204144116.png",
+    "3 - Zettlekaster - Permanent/Dead programs tell no lies.md",
+    "3 - Zettlekaster - Permanent/Tell dont ask.md",
     "3 - Zettlekaster - Permanent/Evil Duplication.md",
-    "3 - Zettlekaster - Permanent/Performance in domain operations.md",
-    "3 - Zettlekaster - Permanent/Building your portfolio.md",
-    "workspace.json",
+    "Pasted image 20260204143536.png",
+    "3 - Zettlekaster - Permanent/DBC - Design by contract.md",
+    "2 - Sources Material - Literatures/Books/Book - The pragmatic programmer.md",
+    "3 - Zettlekaster - Permanent/Communicate.md",
+    "3 - Zettlekaster - Permanent/Saga Orchestration.md",
+    "3 - Zettlekaster - Permanent/Saga Pattern.md",
+    "3 - Zettlekaster - Permanent/A single cognitive load per PR.md",
+    "3 - Zettlekaster - Permanent/Building something unexisting.md",
     "Templates/Nota.md",
+    "3 - Zettlekaster - Permanent/Saga Choreography.md",
+    "3 - Zettlekaster - Permanent/Idempotency key with created_at.md",
+    "4 - Tags/distributed systems.md",
+    "3 - Zettlekaster - Permanent/!Selbstwertgefuhl.md",
+    "4 - Tags/pragmatism.md",
+    "3 - Zettlekaster - Permanent/Adapters may return DTOs instead of Domain Entities.md",
+    "Untitled.base",
+    "Untitled.md",
+    "3 - Zettlekaster - Permanent/How accurate do you want the estimation?.md",
+    "Pasted image 20260114091548.png",
+    "workspace.json",
     "Templates",
     "Pasted image 20251030162707.png",
     "Pasted image 20251030162650.png",
@@ -297,18 +281,13 @@
     "Pasted image 20251007160739.png",
     "Pasted image 20251007160736.png",
     "Pasted image 20250811194432.png",
-    "Pasted image 20250616215925.png",
-    "Pasted image 20250616111644.png",
-    "MANAGER.md",
     "graph.json",
     "core-plugins.json",
     "appearance.json",
     "app.json",
-    "4 - Tags/self learning.md",
     "4 - Tags",
     "3 - Zettlekaster - Permanent",
     "2 - Sources Material - Literatures/Video",
-    "2 - Sources Material - Literatures/Books",
     "Untitled.canvas"
   ]
 }

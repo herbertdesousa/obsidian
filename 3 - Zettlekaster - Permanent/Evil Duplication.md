@@ -3,7 +3,7 @@ Tags: [[pragmatism]]
 
 - DRY - Don't repeat yourself 
 
-
+[[Book - The pragmatic programmer]]
 
 
 
