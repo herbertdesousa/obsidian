@@ -16,3 +16,4 @@ Use when:
 
 Apply [[Try to break things - Orthogonal architecture]]
 
+Maybe you have to apply [[Betting on an idea, let pieces missing]]

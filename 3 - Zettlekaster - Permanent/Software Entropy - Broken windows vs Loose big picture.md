@@ -7,5 +7,5 @@ Do not live with broken windows, in LA, there is a law to punish people with bro
 
 Same for software, by simple approach coupling a service to a monolith in a migration, for example, you create a broken window.
 
-#### Do not loose the big picture
+#### [[Do not loose the big picture]]
 In contrast, <u>sometimes the window broken isn't the problem</u>, sometimes the problem is architectural, the building (architecture, process, code) needs to be remade (refactoring). Do not loose the big picture.

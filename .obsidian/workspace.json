@@ -6,26 +6,15 @@
       {
         "id": "9b5d2fb042887283",
         "type": "tabs",
+        "dimension": 57.48175182481751,
         "children": [
           {
-            "id": "05de9c25fc962f58",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "2efe70388e3f4aea",
+            "id": "bcb92e4aa7ebdb57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettlekaster - Permanent/Couple in trade off performance gain.md",
+                "file": "4 - Tags/architecture.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,35 +29,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Couple in trade off performance gain"
+              "title": "architecture"
             }
           },
           {
-            "id": "c641f9910fb2ed0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Zettlekaster - Permanent/Spectrum performance to readability.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Spectrum performance to readability"
-            }
-          },
-          {
-            "id": "11ac2f4a88406e5f",
+            "id": "e3e17a465245cb35",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,9 +55,51 @@
               "icon": "lucide-file",
               "title": "Building an architecture that you never did before, make it simple at the first time"
             }
+          },
+          {
+            "id": "8013f3dbc1e0c223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Zettlekaster - Permanent/Building something unexisting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Building something unexisting"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "0d8ad941c877a44f",
+        "type": "tabs",
+        "dimension": 42.51824817518249,
+        "children": [
+          {
+            "id": "05de9c25fc962f58",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "architecture",
+                "query": "understand",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -264,36 +271,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2efe70388e3f4aea",
+  "active": "bcb92e4aa7ebdb57",
   "lastOpenFiles": [
-    "3 - Zettlekaster - Permanent/Spectrum performance to readability.md",
+    "3 - Zettlekaster - Permanent/PACELC - PC EL and PA EC examples.md",
+    "4 - Tags/architecture.md",
+    "3 - Zettlekaster - Permanent/Given an estimating complete your answer with parameters.md",
+    "3 - Zettlekaster - Permanent/Building an architecture that you never did before, make it simple at the first time.md",
+    "3 - Zettlekaster - Permanent/Betting on an idea, let pieces missing.md",
+    "3 - Zettlekaster - Permanent/Building something unexisting.md",
+    "3 - Zettlekaster - Permanent/Understand the reason why.md",
+    "3 - Zettlekaster - Permanent/When estimating, understand the problem.md",
+    "3 - Zettlekaster - Permanent/To understand a task, understand the product behind it.md",
+    "3 - Zettlekaster - Permanent/Build configurable software, not integrated.md",
+    "3 - Zettlekaster - Permanent/Write shy modules.md",
+    "4 - Tags/alternatives tricks.md",
+    "3 - Zettlekaster - Permanent/Existence with mod - Bloom Filters.md",
+    "2 - Sources Material - Literatures/Books/Book - The pragmatic programmer.md",
+    "4 - Tags/code level patterns.md",
+    "3 - Zettlekaster - Permanent/Do not loose the big picture.md",
+    "3 - Zettlekaster - Permanent/Software Entropy - Broken windows vs Loose big picture.md",
+    "3 - Zettlekaster - Permanent/Application and Infra are allowed to known external  world and domain.md",
     "3 - Zettlekaster - Permanent/Couple in trade off performance gain.md",
+    "3 - Zettlekaster - Permanent/Spectrum performance to readability.md",
     "4 - Tags/performance.md",
     "3 - Zettlekaster - Permanent/Don't outrun your headlights.md",
     "3 - Zettlekaster - Permanent/ADR vs RFC.md",
-    "3 - Zettlekaster - Permanent/Building an architecture that you never did before, make it simple at the first time.md",
-    "4 - Tags/architecture.md",
     "4 - Tags/leadership.md",
     "3 - Zettlekaster - Permanent/Assertive programming.md",
     "3 - Zettlekaster - Permanent/When face a bug replicate on tests.md",
     "Pasted image 20260204144116.png",
-    "3 - Zettlekaster - Permanent/Dead programs tell no lies.md",
-    "3 - Zettlekaster - Permanent/Tell dont ask.md",
-    "3 - Zettlekaster - Permanent/Evil Duplication.md",
     "Pasted image 20260204143536.png",
-    "3 - Zettlekaster - Permanent/DBC - Design by contract.md",
-    "2 - Sources Material - Literatures/Books/Book - The pragmatic programmer.md",
-    "3 - Zettlekaster - Permanent/Communicate.md",
-    "3 - Zettlekaster - Permanent/Saga Orchestration.md",
-    "3 - Zettlekaster - Permanent/Saga Pattern.md",
-    "3 - Zettlekaster - Permanent/A single cognitive load per PR.md",
-    "3 - Zettlekaster - Permanent/Building something unexisting.md",
-    "Templates/Nota.md",
-    "3 - Zettlekaster - Permanent/Saga Choreography.md",
-    "3 - Zettlekaster - Permanent/Idempotency key with created_at.md",
-    "4 - Tags/distributed systems.md",
-    "3 - Zettlekaster - Permanent/!Selbstwertgefuhl.md",
-    "4 - Tags/pragmatism.md",
     "Untitled.base",
     "Pasted image 20260114091548.png",
     "workspace.json",

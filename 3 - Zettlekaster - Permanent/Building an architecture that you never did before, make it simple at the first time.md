@@ -5,3 +5,4 @@ Case: People was creating a [[Saga Pattern]], instead of build its [[Saga Orches
 
 Can help you: [[Building something unexisting]]
 Similar to: [[A single cognitive load per PR]]
+Related to: [[Betting on an idea, let pieces missing]]

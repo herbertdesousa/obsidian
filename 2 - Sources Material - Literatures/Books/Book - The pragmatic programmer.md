@@ -14,3 +14,4 @@ Pragmatic Approach
 [[Try to break things - Orthogonal architecture]]
 [[Trace bullets]]
 
+
