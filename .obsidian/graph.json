@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 15070469
       }
+    },
+    {
+      "query": "path:\"2 - Sources Material - Literatures\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14750740
+      }
     }
   ],
   "collapse-display": true,
@@ -25,6 +32,6 @@
   "repelStrength": 9.1845703125,
   "linkStrength": 0.448811848958333,
   "linkDistance": 211,
-  "scale": 0.19753086419753066,
+  "scale": 0.29629629629629595,
   "close": true
 }

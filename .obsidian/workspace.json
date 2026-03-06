@@ -6,15 +6,15 @@
       {
         "id": "9b5d2fb042887283",
         "type": "tabs",
-        "dimension": 57.48175182481751,
+        "dimension": 50.873786407766985,
         "children": [
           {
-            "id": "bcb92e4aa7ebdb57",
+            "id": "36575cd0791dc75d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Tags/architecture.md",
+                "file": "4 - Tags/reliability.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,16 +29,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "architecture"
+              "title": "reliability"
             }
           },
           {
-            "id": "e3e17a465245cb35",
+            "id": "e77f9ed3e46747f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettlekaster - Permanent/Building an architecture that you never did before, make it simple at the first time.md",
+                "file": "3 - Zettlekaster - Permanent/Code turns dangerous when many branches shows up.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,31 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Building an architecture that you never did before, make it simple at the first time"
-            }
-          },
-          {
-            "id": "8013f3dbc1e0c223",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Zettlekaster - Permanent/Building something unexisting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Building something unexisting"
+              "title": "Code turns dangerous when many branches shows up"
             }
           }
         ]
@@ -85,7 +61,7 @@
       {
         "id": "0d8ad941c877a44f",
         "type": "tabs",
-        "dimension": 42.51824817518249,
+        "dimension": 49.12621359223301,
         "children": [
           {
             "id": "05de9c25fc962f58",
@@ -131,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "understand",
+                "query": "branches",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -271,34 +247,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bcb92e4aa7ebdb57",
+  "active": "36575cd0791dc75d",
   "lastOpenFiles": [
-    "3 - Zettlekaster - Permanent/PACELC - PC EL and PA EC examples.md",
+    "3 - Zettlekaster - Permanent/To scale, abuse of redundancy.md",
+    "3 - Zettlekaster - Permanent/Sometimes tolerance a fault is not possible.md",
+    "3 - Zettlekaster - Permanent/Code turns dangerous when many branches shows up.md",
+    "3 - Zettlekaster - Permanent/Techniques to prevent failures.md",
+    "4 - Tags/reliability.md",
+    "3 - Zettlekaster - Permanent/Failure vs Fault.md",
+    "3 - Zettlekaster - Permanent/A mature system is a system which covers faults, reliable.md",
+    "3 - Zettlekaster - Permanent/What is reliability, fault tolerant and resilient?.md",
     "4 - Tags/architecture.md",
-    "3 - Zettlekaster - Permanent/Given an estimating complete your answer with parameters.md",
+    "3 - Zettlekaster - Permanent/Don_t log insecure information.md",
+    "4 - Tags/reliability(fault-tolerant).md",
+    "2 - Sources Material - Literatures/Books/Book - Designing Data Intensive Applications.md",
+    "4 - Tags/my paradigms.md",
+    "4 - Tags/observability.md",
+    "3 - Zettlekaster - Permanent/Avoid print large stuffs.md",
+    "4 - Tags/scalability.md",
+    "2 - Sources Material - Literatures/Articles/Article - Seven best practices for keeping sensitive data out of logs.md",
+    "2 - Sources Material - Literatures/Books/Book - The pragmatic programmer.md",
+    "2 - Sources Material - Literatures/Books/Book - Zettelkasten.md",
+    "2 - Sources Material - Literatures/Articles/Article - Understanding Performance Bottlenecks.md",
     "3 - Zettlekaster - Permanent/Building an architecture that you never did before, make it simple at the first time.md",
+    "3 - Zettlekaster - Permanent/PACELC - PC EL and PA EC examples.md",
+    "3 - Zettlekaster - Permanent/Given an estimating complete your answer with parameters.md",
     "3 - Zettlekaster - Permanent/Betting on an idea, let pieces missing.md",
     "3 - Zettlekaster - Permanent/Building something unexisting.md",
     "3 - Zettlekaster - Permanent/Understand the reason why.md",
-    "3 - Zettlekaster - Permanent/When estimating, understand the problem.md",
-    "3 - Zettlekaster - Permanent/To understand a task, understand the product behind it.md",
-    "3 - Zettlekaster - Permanent/Build configurable software, not integrated.md",
-    "3 - Zettlekaster - Permanent/Write shy modules.md",
-    "4 - Tags/alternatives tricks.md",
-    "3 - Zettlekaster - Permanent/Existence with mod - Bloom Filters.md",
-    "2 - Sources Material - Literatures/Books/Book - The pragmatic programmer.md",
-    "4 - Tags/code level patterns.md",
-    "3 - Zettlekaster - Permanent/Do not loose the big picture.md",
-    "3 - Zettlekaster - Permanent/Software Entropy - Broken windows vs Loose big picture.md",
-    "3 - Zettlekaster - Permanent/Application and Infra are allowed to known external  world and domain.md",
-    "3 - Zettlekaster - Permanent/Couple in trade off performance gain.md",
-    "3 - Zettlekaster - Permanent/Spectrum performance to readability.md",
-    "4 - Tags/performance.md",
-    "3 - Zettlekaster - Permanent/Don't outrun your headlights.md",
-    "3 - Zettlekaster - Permanent/ADR vs RFC.md",
-    "4 - Tags/leadership.md",
-    "3 - Zettlekaster - Permanent/Assertive programming.md",
-    "3 - Zettlekaster - Permanent/When face a bug replicate on tests.md",
     "Pasted image 20260204144116.png",
     "Pasted image 20260204143536.png",
     "Untitled.base",
