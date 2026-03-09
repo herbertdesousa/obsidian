@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettlekaster - Permanent/Code turns dangerous when many branches shows up.md",
+                "file": "3 - Zettlekaster - Permanent/Try to solve problem with at least 3 different approaches.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,10 +53,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Code turns dangerous when many branches shows up"
+              "title": "Try to solve problem with at least 3 different approaches"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0d8ad941c877a44f",
@@ -247,13 +248,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36575cd0791dc75d",
+  "active": "e77f9ed3e46747f6",
   "lastOpenFiles": [
+    "3 - Zettlekaster - Permanent/Code turns dangerous when many branches shows up.md",
+    "3 - Zettlekaster - Permanent/Try to solve problem with at least 3 different approaches.md",
+    "4 - Tags/reliability.md",
     "3 - Zettlekaster - Permanent/To scale, abuse of redundancy.md",
     "3 - Zettlekaster - Permanent/Sometimes tolerance a fault is not possible.md",
-    "3 - Zettlekaster - Permanent/Code turns dangerous when many branches shows up.md",
     "3 - Zettlekaster - Permanent/Techniques to prevent failures.md",
-    "4 - Tags/reliability.md",
     "3 - Zettlekaster - Permanent/Failure vs Fault.md",
     "3 - Zettlekaster - Permanent/A mature system is a system which covers faults, reliable.md",
     "3 - Zettlekaster - Permanent/What is reliability, fault tolerant and resilient?.md",
@@ -274,7 +276,6 @@
     "3 - Zettlekaster - Permanent/Given an estimating complete your answer with parameters.md",
     "3 - Zettlekaster - Permanent/Betting on an idea, let pieces missing.md",
     "3 - Zettlekaster - Permanent/Building something unexisting.md",
-    "3 - Zettlekaster - Permanent/Understand the reason why.md",
     "Pasted image 20260204144116.png",
     "Pasted image 20260204143536.png",
     "Untitled.base",
