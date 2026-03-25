@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "018afd08ad5a63d9",
+        "id": "ca5844abaa6caf13",
         "type": "tabs",
         "children": [
           {
-            "id": "49220c72f66df02c",
+            "id": "4249c8d2c8300c46",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Saga",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,13 +173,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "75a5c56e2a9cb718",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,34 +203,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0773c3966a8633c5",
+  "active": "4249c8d2c8300c46",
   "lastOpenFiles": [
-    "3 - Zettlekaster - Permanent/Be scalable is to guest which parameter in your architecture will grow.md",
-    "3 - Zettlekaster - Permanent/No one-size-fits-all architecture.md",
-    "3 - Zettlekaster - Permanent/Creating a load test, deploy it on the environment where the applications lives.md",
-    "3 - Zettlekaster - Permanent/The slowest customer is the one most valuable.md",
-    "3 - Zettlekaster - Permanent/Tail latency.md",
-    "3 - Zettlekaster - Permanent/How to describe the load.md",
-    "1 - Rough Notes - Temporaries/Untitled.md",
+    "3 - Zettlekaster - Permanent/Abstract things using declarative language.md",
+    "2 - Sources Material - Literatures/Articles/Article - Postgres is all you need.md",
+    "3 - Zettlekaster - Permanent/When to use document database.md",
+    "3 - Zettlekaster - Permanent/Schema on read vs Schema on write.md",
+    "3 - Zettlekaster - Permanent/Postgres is all you need.md",
+    "3 - Zettlekaster - Permanent/Keep documents small on document database.md",
+    "3 - Zettlekaster - Permanent/Impedance Mismatch.md",
+    "3 - Zettlekaster - Permanent/Saga Orchestration.md",
+    "3 - Zettlekaster - Permanent/Saga Choreography.md",
+    "3 - Zettlekaster - Permanent/Don't outrun your headlights.md",
+    "3 - Zettlekaster - Permanent/Don_t over encapsulate.md",
+    "3 - Zettlekaster - Permanent/Don_t log insecure information.md",
+    "3 - Zettlekaster - Permanent/Don_t create a canon at first, be able to expect them.md",
+    "3 - Zettlekaster - Permanent/Analytics your RDBMS with columnar table.md",
+    "3 - Zettlekaster - Permanent/Alternatives for app caching instead of Redis.md",
     "3 - Zettlekaster - Permanent/ADR vs RFC.md",
+    "3 - Zettlekaster - Permanent/Adapters may return DTOs instead of Domain Entities.md",
     "3 - Zettlekaster - Permanent/A single cognitive load per PR.md",
     "3 - Zettlekaster - Permanent/A mature system is a system which covers faults, reliable.md",
     "3 - Zettlekaster - Permanent/!Selbstwertgefuhl.md",
     "3 - Zettlekaster - Permanent/_Metal de sacrifício_ at performance.md",
-    "2 - Sources Material - Literatures/Articles/Article - PACELC With examples.md",
-    "3 - Zettlekaster - Permanent/Assertive programming.md",
-    "3 - Zettlekaster - Permanent/Try to solve problem with at least 3 different approaches.md",
-    "3 - Zettlekaster - Permanent/Code turns dangerous when many branches shows up.md",
-    "4 - Tags/reliability.md",
-    "3 - Zettlekaster - Permanent/To scale, abuse of redundancy.md",
-    "3 - Zettlekaster - Permanent/Sometimes tolerance a fault is not possible.md",
-    "3 - Zettlekaster - Permanent/Techniques to prevent failures.md",
-    "3 - Zettlekaster - Permanent/Failure vs Fault.md",
-    "3 - Zettlekaster - Permanent/What is reliability, fault tolerant and resilient?.md",
-    "4 - Tags/architecture.md",
-    "3 - Zettlekaster - Permanent/Don_t log insecure information.md",
-    "4 - Tags/reliability(fault-tolerant).md",
-    "2 - Sources Material - Literatures/Books/Book - Designing Data Intensive Applications.md",
+    "normalization.md.md",
+    "3 - Zettlekaster - Permanent/Stable coin.md",
+    "4 - Tags/estimating.md",
+    "4 - Tags/distributed systems.md",
+    "Vault normalization plan.md",
     "Pasted image 20260204144116.png",
     "Pasted image 20260204143536.png",
     "Untitled.base",
