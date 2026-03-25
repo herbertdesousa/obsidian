@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ca5844abaa6caf13",
+        "id": "8cc6ecc20144161d",
         "type": "tabs",
         "children": [
           {
-            "id": "4249c8d2c8300c46",
+            "id": "59e37c42b4bec8a0",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "3 - Zettlekaster - Permanent/1 product solution, N technical solutions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "1 product solution, N technical solutions"
             }
           }
         ]
@@ -203,8 +213,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4249c8d2c8300c46",
+  "active": "59e37c42b4bec8a0",
   "lastOpenFiles": [
+    "3 - Zettlekaster - Permanent/1 product solution, N technical solutions.md",
     "3 - Zettlekaster - Permanent/Abstract things using declarative language.md",
     "2 - Sources Material - Literatures/Articles/Article - Postgres is all you need.md",
     "3 - Zettlekaster - Permanent/When to use document database.md",
@@ -230,7 +241,6 @@
     "3 - Zettlekaster - Permanent/Stable coin.md",
     "4 - Tags/estimating.md",
     "4 - Tags/distributed systems.md",
-    "Vault normalization plan.md",
     "Pasted image 20260204144116.png",
     "Pasted image 20260204143536.png",
     "Untitled.base",
