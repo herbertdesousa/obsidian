@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8cc6ecc20144161d",
+        "id": "d19212a6cbc2995b",
         "type": "tabs",
         "children": [
           {
-            "id": "59e37c42b4bec8a0",
+            "id": "4eea89780c288462",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettlekaster - Permanent/1 product solution, N technical solutions.md",
+                "file": "3 - Zettlekaster - Permanent/WAL Tables.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1 product solution, N technical solutions"
+              "title": "WAL Tables"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Saga",
+                "query": "2026-03-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,8 +213,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59e37c42b4bec8a0",
+  "active": "0773c3966a8633c5",
   "lastOpenFiles": [
+    "3 - Zettlekaster - Permanent/Append only is faster than update.md",
+    "3 - Zettlekaster - Permanent/Functional paradigms create a new value instead of changing existing one.md",
+    "4 - Tags/programming languages.md",
+    "4 - Tags/alternatives tricks.md",
+    "3 - Zettlekaster - Permanent/WAL Tables.md",
     "3 - Zettlekaster - Permanent/1 product solution, N technical solutions.md",
     "3 - Zettlekaster - Permanent/Abstract things using declarative language.md",
     "2 - Sources Material - Literatures/Articles/Article - Postgres is all you need.md",
@@ -236,11 +241,6 @@
     "3 - Zettlekaster - Permanent/A single cognitive load per PR.md",
     "3 - Zettlekaster - Permanent/A mature system is a system which covers faults, reliable.md",
     "3 - Zettlekaster - Permanent/!Selbstwertgefuhl.md",
-    "3 - Zettlekaster - Permanent/_Metal de sacrifício_ at performance.md",
-    "normalization.md.md",
-    "3 - Zettlekaster - Permanent/Stable coin.md",
-    "4 - Tags/estimating.md",
-    "4 - Tags/distributed systems.md",
     "Pasted image 20260204144116.png",
     "Pasted image 20260204143536.png",
     "Untitled.base",
