@@ -200,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,7 +215,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abcb12e34f7d0503",
+  "active": "65e0df83676515e5",
   "lastOpenFiles": [
     "3 - Zettlekaster - Permanent/Append only is faster than update.md",
     "3 - Zettlekaster - Permanent/Bitcask (redis competitor).md",

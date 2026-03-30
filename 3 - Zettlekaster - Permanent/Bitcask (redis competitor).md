@@ -12,7 +12,9 @@ Reads: Look for key hashed on RAM, and then perform O(1) search on disk.
 GC: Garbage collection removes periodically data from the disk 
 
 Useful scenarios:
-- When dataset's are too large to fit in memory. But number of unique keys are small than RAM.
+- Payload is heavy:
+	Redis stores N + V (N key and V is values), Bitcask only stores N.
+	When dataset's are too large to fit in memory. But number of unique keys are small than RAM.
 
 Not useful:
 - Directly change data on database: With Bitcask, you need to pull the whole object into application, change it, and then store it again.
