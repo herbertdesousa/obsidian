@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettlekaster - Permanent/Lower ECS costs with Spots.md",
+                "file": "3 - Zettlekaster - Permanent/Bitcask (redis competitor).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lower ECS costs with Spots"
+              "title": "Bitcask (redis competitor)"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2026-03-",
+                "query": "append",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "28a79246b8b1dac2",
@@ -215,11 +216,12 @@
   },
   "active": "65e0df83676515e5",
   "lastOpenFiles": [
-    "4 - Tags/infrastructure.md",
+    "3 - Zettlekaster - Permanent/Append only is faster than update.md",
+    "3 - Zettlekaster - Permanent/Bitcask (redis competitor).md",
     "3 - Zettlekaster - Permanent/Lower ECS costs with Spots.md",
+    "4 - Tags/infrastructure.md",
     "3 - Zettlekaster - Permanent/WAL Tables.md",
     "3 - Zettlekaster - Permanent/Abstract things using declarative language.md",
-    "3 - Zettlekaster - Permanent/Append only is faster than update.md",
     "3 - Zettlekaster - Permanent/Functional paradigms create a new value instead of changing existing one.md",
     "4 - Tags/programming languages.md",
     "4 - Tags/alternatives tricks.md",
@@ -240,7 +242,6 @@
     "3 - Zettlekaster - Permanent/Alternatives for app caching instead of Redis.md",
     "3 - Zettlekaster - Permanent/ADR vs RFC.md",
     "3 - Zettlekaster - Permanent/Adapters may return DTOs instead of Domain Entities.md",
-    "3 - Zettlekaster - Permanent/A single cognitive load per PR.md",
     "Pasted image 20260204144116.png",
     "Pasted image 20260204143536.png",
     "Untitled.base",

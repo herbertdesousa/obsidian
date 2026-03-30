@@ -5,6 +5,7 @@ Source: [[Book - The pragmatic programmer]]
 Many databases benefits from append-only, like:
 - Postgres [[WAL Tables]]
 - Bitcask: Distributed NoSQL key-value database
+- Redis AOF logs
 
 Why?
 - Updates are dangerous concurrency needs to be considered
