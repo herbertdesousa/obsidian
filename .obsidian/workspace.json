@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a858490f7b40553a",
+        "id": "4d1c0129d07ff3de",
         "type": "tabs",
         "children": [
           {
-            "id": "a5b1fb77c3a1363c",
+            "id": "5e06744cc7324cd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettlekaster - Permanent/Write intensive applications.md",
+                "file": "3 - Zettlekaster - Permanent/Control the movement is the secret.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Write intensive applications"
+              "title": "Control the movement is the secret"
             }
           },
           {
-            "id": "014694bc5a74c1cf",
+            "id": "c3671329688dcca7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettlekaster - Permanent/LSM Tree.md",
+                "file": "3 - Zettlekaster - Permanent/Be weak on exercise is a space to grow.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LSM Tree"
+              "title": "Be weak on exercise is a space to grow"
             }
           },
           {
-            "id": "0d9aded7cbfe1f88",
+            "id": "f28a7a399025ef6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettlekaster - Permanent/Why cassandra is write fast?.md",
+                "file": "3 - Zettlekaster - Permanent/The weakest link breaks first.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Why cassandra is write fast?"
+              "title": "The weakest link breaks first"
             }
           },
           {
-            "id": "aa671fb92dea496b",
+            "id": "5673eb263ff89b7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettlekaster - Permanent/LSM Databases.md",
+                "file": "3 - Zettlekaster - Permanent/_Metal de sacrifício_ at performance.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,107 +100,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LSM Databases"
-            }
-          },
-          {
-            "id": "506f28fa995cbe27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Zettlekaster - Permanent/B-trees vs LSM Trees.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "B-trees vs LSM Trees"
-            }
-          },
-          {
-            "id": "6c9836d3b5e22bcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Zettlekaster - Permanent/Write aplification on SSDs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Write aplification on SSDs"
-            }
-          },
-          {
-            "id": "3ba1c2b5b03b49b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Zettlekaster - Permanent/How SSL Tables imply non write aplification.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How SSL Tables imply non write aplification"
-            }
-          },
-          {
-            "id": "7264a3d564580542",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Zettlekaster - Permanent/How indexes on database affect write performance.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How indexes on database affect write performance"
+              "title": "_Metal de sacrifício_ at performance"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sequential write, random update and Sequential read",
+                "query": "bottlen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,8 +156,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -383,8 +285,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7264a3d564580542",
+  "active": "5e06744cc7324cd8",
   "lastOpenFiles": [
+    "3 - Zettlekaster - Permanent/Be weak on exercise is a space to grow.md",
+    "3 - Zettlekaster - Permanent/Control the movement is the secret.md",
+    "3 - Zettlekaster - Permanent/If you shoulders are weak, your chest train will not improve.md",
+    "3 - Zettlekaster - Permanent/The weakest link breaks first.md",
+    "3 - Zettlekaster - Permanent/_Metal de sacrifício_ at performance.md",
+    "4 - Tags/gym.md",
+    "2 - Sources Material - Literatures/Articles/Article - Understanding Performance Bottlenecks.md",
     "3 - Zettlekaster - Permanent/Sequential write, random update and Sequential read.md",
     "3 - Zettlekaster - Permanent/Write aplification on SSDs.md",
     "3 - Zettlekaster - Permanent/How indexes on database affect write performance.md",
@@ -405,13 +314,6 @@
     "3 - Zettlekaster - Permanent/Lower ECS costs with Spots.md",
     "4 - Tags/infrastructure.md",
     "3 - Zettlekaster - Permanent/WAL Tables.md",
-    "3 - Zettlekaster - Permanent/Abstract things using declarative language.md",
-    "3 - Zettlekaster - Permanent/Functional paradigms create a new value instead of changing existing one.md",
-    "4 - Tags/programming languages.md",
-    "4 - Tags/alternatives tricks.md",
-    "3 - Zettlekaster - Permanent/1 product solution, N technical solutions.md",
-    "2 - Sources Material - Literatures/Articles/Article - Postgres is all you need.md",
-    "3 - Zettlekaster - Permanent/Schema on read vs Schema on write.md",
     "Pasted image 20260204144116.png",
     "Pasted image 20260204143536.png",
     "Untitled.base",
