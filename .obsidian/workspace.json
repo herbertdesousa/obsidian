@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "e711b6c7b7e82590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Zettlekaster - Permanent/If you shoulders are weak, your chest train will not improve.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "If you shoulders are weak, your chest train will not improve"
+            }
+          },
+          {
             "id": "5673eb263ff89b7e",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               "title": "_Metal de sacrifício_ at performance"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -285,13 +310,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e06744cc7324cd8",
+  "active": "e711b6c7b7e82590",
   "lastOpenFiles": [
-    "3 - Zettlekaster - Permanent/Be weak on exercise is a space to grow.md",
-    "3 - Zettlekaster - Permanent/Control the movement is the secret.md",
+    "3 - Zettlekaster - Permanent/_Metal de sacrifício_ at performance.md",
     "3 - Zettlekaster - Permanent/If you shoulders are weak, your chest train will not improve.md",
     "3 - Zettlekaster - Permanent/The weakest link breaks first.md",
-    "3 - Zettlekaster - Permanent/_Metal de sacrifício_ at performance.md",
+    "3 - Zettlekaster - Permanent/Control the movement is the secret.md",
+    "3 - Zettlekaster - Permanent/Be weak on exercise is a space to grow.md",
     "4 - Tags/gym.md",
     "2 - Sources Material - Literatures/Articles/Article - Understanding Performance Bottlenecks.md",
     "3 - Zettlekaster - Permanent/Sequential write, random update and Sequential read.md",
