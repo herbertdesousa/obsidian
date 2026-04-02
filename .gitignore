@@ -1,0 +1,17 @@
+.cache/
+
+.config/
+
+.dbus/
+
+.local/
+
+.pki/
+
+ssl/
+
+.bashrc
+
+.Xresources
+
+.xsettingsd
