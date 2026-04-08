@@ -11,3 +11,5 @@ But there is cons, a lot of them:
 - Where with multiple cases are also bad
 
 In summary, you'll never use it
+
+OLAP systems benefits on that. Check [[OLTP vs OLAP]].

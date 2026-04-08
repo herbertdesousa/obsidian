@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d1c0129d07ff3de",
+        "id": "3fcba2ab77090c8f",
         "type": "tabs",
         "children": [
           {
-            "id": "5e06744cc7324cd8",
+            "id": "785aaac02c8db96d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettlekaster - Permanent/Control the movement is the secret.md",
+                "file": "3 - Zettlekaster - Permanent/ETL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Control the movement is the secret"
+              "title": "ETL"
             }
           },
           {
-            "id": "c3671329688dcca7",
+            "id": "f75b1c2775c92522",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettlekaster - Permanent/Be weak on exercise is a space to grow.md",
+                "file": "3 - Zettlekaster - Permanent/Analytics your RDBMS with columnar table.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Be weak on exercise is a space to grow"
+              "title": "Analytics your RDBMS with columnar table"
             }
           },
           {
-            "id": "f28a7a399025ef6e",
+            "id": "93e0435547d39ad7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettlekaster - Permanent/The weakest link breaks first.md",
+                "file": "OLTP vs OLAP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The weakest link breaks first"
+              "title": "OLTP vs OLAP"
             }
           },
           {
-            "id": "e711b6c7b7e82590",
+            "id": "fc47120947a3af1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettlekaster - Permanent/If you shoulders are weak, your chest train will not improve.md",
+                "file": "Small companies don't need OLAP databases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,35 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "If you shoulders are weak, your chest train will not improve"
-            }
-          },
-          {
-            "id": "5673eb263ff89b7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Zettlekaster - Permanent/_Metal de sacrifício_ at performance.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_Metal de sacrifício_ at performance"
+              "title": "Small companies don't need OLAP databases"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bottlen",
+                "query": "columnar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -310,8 +286,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e711b6c7b7e82590",
+  "active": "93e0435547d39ad7",
   "lastOpenFiles": [
+    "Small companies don't need OLAP databases.md",
+    "OLTP vs OLAP.md",
+    "3 - Zettlekaster - Permanent/Analytics your RDBMS with columnar table.md",
+    "3 - Zettlekaster - Permanent/ETL.md",
+    "3 - Zettlekaster - Permanent/B-trees vs LSM Trees.md",
+    "3 - Zettlekaster - Permanent/LSM Tree.md",
+    "3 - Zettlekaster - Permanent/Random IDs vs Sequential IDs.md",
+    "When you face state of art is impressive.md",
     "3 - Zettlekaster - Permanent/_Metal de sacrifício_ at performance.md",
     "3 - Zettlekaster - Permanent/If you shoulders are weak, your chest train will not improve.md",
     "3 - Zettlekaster - Permanent/The weakest link breaks first.md",
@@ -323,22 +307,14 @@
     "3 - Zettlekaster - Permanent/Write aplification on SSDs.md",
     "3 - Zettlekaster - Permanent/How indexes on database affect write performance.md",
     "3 - Zettlekaster - Permanent/How SSL Tables imply non write aplification.md",
-    "3 - Zettlekaster - Permanent/B-trees vs LSM Trees.md",
     "3 - Zettlekaster - Permanent/LSM Databases.md",
     "3 - Zettlekaster - Permanent/Architecture is decision between trade offs.md",
     "3 - Zettlekaster - Permanent/Why cassandra is write fast?.md",
-    "3 - Zettlekaster - Permanent/LSM Tree.md",
     "3 - Zettlekaster - Permanent/Write intensive applications.md",
     "3 - Zettlekaster - Permanent/When to use document database.md",
     "docker-compose.yml",
     "4 - Tags/hardware.md",
     "4 - Tags/data structures.md",
-    "4 - Tags/database.md",
-    "3 - Zettlekaster - Permanent/Bitcask (redis competitor).md",
-    "3 - Zettlekaster - Permanent/Append only is faster than update.md",
-    "3 - Zettlekaster - Permanent/Lower ECS costs with Spots.md",
-    "4 - Tags/infrastructure.md",
-    "3 - Zettlekaster - Permanent/WAL Tables.md",
     "Pasted image 20260204144116.png",
     "Pasted image 20260204143536.png",
     "Untitled.base",
