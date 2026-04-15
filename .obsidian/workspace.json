@@ -4,40 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "3fcba2ab77090c8f",
+        "id": "12332a70582afbf2",
         "type": "tabs",
         "children": [
           {
-            "id": "785aaac02c8db96d",
+            "id": "2d4a6473a21931c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "3 - Zettlekaster - Permanent/ETL.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "3 - Zettlekaster - Permanent/DuckDB.md",
+                "bFile": "3 - Zettlekaster - Permanent/DuckDB.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "ETL"
+              "icon": "diff",
+              "title": "Diff: DuckDB  (Working Tree)"
             }
           },
           {
-            "id": "f75b1c2775c92522",
+            "id": "e3bc06445b782b43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettlekaster - Permanent/Analytics your RDBMS with columnar table.md",
+                "file": "3 - Zettlekaster - Permanent/Sacrificing updated data against performance.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,59 +42,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Analytics your RDBMS with columnar table"
-            }
-          },
-          {
-            "id": "93e0435547d39ad7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OLTP vs OLAP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "OLTP vs OLAP"
-            }
-          },
-          {
-            "id": "fc47120947a3af1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Small companies don't need OLAP databases.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Small companies don't need OLAP databases"
+              "title": "Sacrificing updated data against performance"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "columnar",
+                "query": "algorithm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -286,16 +227,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93e0435547d39ad7",
+  "active": "2d4a6473a21931c1",
   "lastOpenFiles": [
+    "3 - Zettlekaster - Permanent/Sacrificing updated data against performance.md",
+    "3 - Zettlekaster - Permanent/OCC.md",
+    "3 - Zettlekaster - Permanent/DuckDB.md",
+    "3 - Zettlekaster - Permanent/MVCC.md",
+    "4 - Tags/algorithm.md",
+    "3 - Zettlekaster - Permanent/LSM Tree.md",
+    "algoriithm.md",
+    "3 - Zettlekaster - Permanent/Isolation levels vs read phenomena.md",
+    "Pasted image 20250616111644.png",
+    "3 - Zettlekaster - Permanent/Json do not distinguish between float and integer numbers.md",
+    "When you face state of art is impressive.md",
     "Small companies don't need OLAP databases.md",
     "OLTP vs OLAP.md",
-    "3 - Zettlekaster - Permanent/Analytics your RDBMS with columnar table.md",
+    "3 - Zettlekaster - Permanent/LSM Tree and SSTable.md",
     "3 - Zettlekaster - Permanent/ETL.md",
-    "3 - Zettlekaster - Permanent/B-trees vs LSM Trees.md",
-    "3 - Zettlekaster - Permanent/LSM Tree.md",
-    "3 - Zettlekaster - Permanent/Random IDs vs Sequential IDs.md",
-    "When you face state of art is impressive.md",
     "3 - Zettlekaster - Permanent/_Metal de sacrifício_ at performance.md",
     "3 - Zettlekaster - Permanent/If you shoulders are weak, your chest train will not improve.md",
     "3 - Zettlekaster - Permanent/The weakest link breaks first.md",
@@ -307,14 +255,8 @@
     "3 - Zettlekaster - Permanent/Write aplification on SSDs.md",
     "3 - Zettlekaster - Permanent/How indexes on database affect write performance.md",
     "3 - Zettlekaster - Permanent/How SSL Tables imply non write aplification.md",
-    "3 - Zettlekaster - Permanent/LSM Databases.md",
-    "3 - Zettlekaster - Permanent/Architecture is decision between trade offs.md",
-    "3 - Zettlekaster - Permanent/Why cassandra is write fast?.md",
-    "3 - Zettlekaster - Permanent/Write intensive applications.md",
-    "3 - Zettlekaster - Permanent/When to use document database.md",
+    "3 - Zettlekaster - Permanent/B-trees vs LSM Trees.md",
     "docker-compose.yml",
-    "4 - Tags/hardware.md",
-    "4 - Tags/data structures.md",
     "Pasted image 20260204144116.png",
     "Pasted image 20260204143536.png",
     "Untitled.base",
@@ -327,7 +269,6 @@
     "Pasted image 20251030162419.png",
     "Pasted image 20251007160739.png",
     "Pasted image 20251007160736.png",
-    "Pasted image 20250811194432.png",
     "graph.json",
     "core-plugins.json",
     "appearance.json",
