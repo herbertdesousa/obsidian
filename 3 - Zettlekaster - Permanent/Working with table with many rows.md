@@ -11,8 +11,7 @@ tb_relationship``` or something, save in the user profile the count itself.
 Indexes can avoid queries to be slow, but be careful about insertions and deletions.
 
 **Do I can partition?**
-Partitioning splits your database table into multiple regions in the disk, I can be a good approach to large tables.
-(not too much info about cons)
+Partitioning splits your database table into multiple regions in the disk, I can be a good approach to large tables. [[Database Partitioning]].
 
 **Do I can shard?**
 Sharding splits your database into multiple ones.
