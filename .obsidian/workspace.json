@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "19cdb42785459c9f",
+        "id": "47bd0fa66f9b6e6a",
         "type": "tabs",
         "children": [
           {
-            "id": "afab49cb83cd8ced",
+            "id": "5819b7376718f175",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettlekaster - Permanent/Working with table with many rows.md",
+                "file": "3 - Zettlekaster - Permanent/App Incidents shows code improvement.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,107 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Working with table with many rows"
-            }
-          },
-          {
-            "id": "9365fb1745e4ba8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Zettlekaster - Permanent/Database Partitioning.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Database Partitioning"
-            }
-          },
-          {
-            "id": "f24cc239d3c3613e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Zettlekaster - Permanent/Database partition techniques.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Database partition techniques"
-            }
-          },
-          {
-            "id": "8f01e252da6533b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Zettlekaster - Permanent/Horizontal vs Vertical partition.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Horizontal vs Vertical partition"
-            }
-          },
-          {
-            "id": "eeda2cf15752e6cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Zettlekaster - Permanent/Do not use incremental ids as partition key.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Do not use incremental ids as partition key"
+              "title": "App Incidents shows code improvement"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "database partition",
+                "query": "do not use incremental",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -310,18 +213,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f24cc239d3c3613e",
+  "active": "5819b7376718f175",
   "lastOpenFiles": [
-    "3 - Zettlekaster - Permanent/Do not use incremental ids as partition key.md",
-    "3 - Zettlekaster - Permanent/Hot partition.md",
-    "4 - Tags/database partition.md",
-    "3 - Zettlekaster - Permanent/Database partition techniques.md",
+    "3 - Zettlekaster - Permanent/Hazelcast over redis.md",
+    "3 - Zettlekaster - Permanent/App Incidents shows code improvement.md",
+    "3 - Zettlekaster - Permanent/Choose Availability or Consistency.md",
+    "3 - Zettlekaster - Permanent/When to cache vs tradeoffs.md",
+    "4 - Tags/caching.md",
+    "2 - Sources Material - Literatures/Articles/Article - Caching Strategies in Java Applications Redis vs Hazelcast in Production.md",
     "2 - Sources Material - Literatures/Articles/Article - Can using incremental (but unique) IDs as a partition key create hot partitions in DynamoDB?.md",
-    "2 - Sources Material - Literatures/Articles/Article - This One Kafka Design Pattern Changed Everything for Us.md",
     "3 - Zettlekaster - Permanent/Database Partitioning.md",
-    "3 - Zettlekaster - Permanent/Horizontal vs Vertical partition.md",
     "3 - Zettlekaster - Permanent/Working with table with many rows.md",
+    "3 - Zettlekaster - Permanent/Do not use incremental ids as partition key.md",
+    "3 - Zettlekaster - Permanent/Horizontal vs Vertical partition.md",
+    "3 - Zettlekaster - Permanent/Database partition techniques.md",
+    "4 - Tags/database partition.md",
     "3 - Zettlekaster - Permanent/Partition prune.md",
+    "3 - Zettlekaster - Permanent/Hot partition.md",
     "3 - Zettlekaster - Permanent/ELB, ALB and NLB.md",
     "3 - Zettlekaster - Permanent/Sacrificing updated data against performance.md",
     "3 - Zettlekaster - Permanent/OCC.md",
@@ -334,11 +242,6 @@
     "Pasted image 20250616111644.png",
     "3 - Zettlekaster - Permanent/Json do not distinguish between float and integer numbers.md",
     "When you face state of art is impressive.md",
-    "Small companies don't need OLAP databases.md",
-    "OLTP vs OLAP.md",
-    "3 - Zettlekaster - Permanent/LSM Tree and SSTable.md",
-    "3 - Zettlekaster - Permanent/ETL.md",
-    "3 - Zettlekaster - Permanent/_Metal de sacrifício_ at performance.md",
     "docker-compose.yml",
     "Pasted image 20260204144116.png",
     "Pasted image 20260204143536.png",
