@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettlekaster - Permanent/App Incidents shows code improvement.md",
+                "file": "3 - Zettlekaster - Permanent/Hazelcast over redis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "App Incidents shows code improvement"
+              "title": "Hazelcast over redis"
+            }
+          },
+          {
+            "id": "0db6c6a0a6c8d043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Zettlekaster - Permanent/PACELC - PC EL and PA EC examples.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PACELC - PC EL and PA EC examples"
             }
           }
         ]
@@ -63,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "do not use incremental",
+                "query": "hazel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +108,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,6 +240,7 @@
   },
   "active": "5819b7376718f175",
   "lastOpenFiles": [
+    "3 - Zettlekaster - Permanent/PACELC - PC EL and PA EC examples.md",
     "3 - Zettlekaster - Permanent/Hazelcast over redis.md",
     "3 - Zettlekaster - Permanent/App Incidents shows code improvement.md",
     "3 - Zettlekaster - Permanent/Choose Availability or Consistency.md",
@@ -241,7 +267,6 @@
     "3 - Zettlekaster - Permanent/Isolation levels vs read phenomena.md",
     "Pasted image 20250616111644.png",
     "3 - Zettlekaster - Permanent/Json do not distinguish between float and integer numbers.md",
-    "When you face state of art is impressive.md",
     "docker-compose.yml",
     "Pasted image 20260204144116.png",
     "Pasted image 20260204143536.png",
