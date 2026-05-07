@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettlekaster - Permanent/Hazelcast over redis.md",
+                "file": "3 - Zettlekaster - Permanent/Measure infra costs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hazelcast over redis"
+              "title": "Measure infra costs"
             }
           },
           {
@@ -108,8 +108,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,8 +239,9 @@
   },
   "active": "5819b7376718f175",
   "lastOpenFiles": [
-    "3 - Zettlekaster - Permanent/PACELC - PC EL and PA EC examples.md",
     "3 - Zettlekaster - Permanent/Hazelcast over redis.md",
+    "3 - Zettlekaster - Permanent/Measure infra costs.md",
+    "3 - Zettlekaster - Permanent/PACELC - PC EL and PA EC examples.md",
     "3 - Zettlekaster - Permanent/App Incidents shows code improvement.md",
     "3 - Zettlekaster - Permanent/Choose Availability or Consistency.md",
     "3 - Zettlekaster - Permanent/When to cache vs tradeoffs.md",
@@ -266,7 +266,6 @@
     "algoriithm.md",
     "3 - Zettlekaster - Permanent/Isolation levels vs read phenomena.md",
     "Pasted image 20250616111644.png",
-    "3 - Zettlekaster - Permanent/Json do not distinguish between float and integer numbers.md",
     "docker-compose.yml",
     "Pasted image 20260204144116.png",
     "Pasted image 20260204143536.png",
