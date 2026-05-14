@@ -1,5 +1,5 @@
 Date: 2026-02-03
-Tags: [[database partition]], [[scalability]]
+Tags: [[data partition]], [[scalability]]
 
 Partition is a technique to split physically table, index and other structures on disk and memory. It allow us to scale by increasing availability and isolating failures. 
 

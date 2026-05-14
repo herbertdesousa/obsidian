@@ -1,5 +1,5 @@
 Date: 2026-02-03
-Tags: [[database partition]]
+Tags: [[data partition]]
 Source: [[Article - Can using incremental (but unique) IDs as a partition key create hot partitions in DynamoDB?]]
 
 When database hash engine hashes id 1001 and 1002

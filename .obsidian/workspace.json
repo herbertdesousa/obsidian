@@ -8,13 +8,99 @@
         "type": "tabs",
         "children": [
           {
+            "id": "734271e0b4b4435e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Zettlekaster - Permanent/Single Ledger.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Single Ledger"
+            }
+          },
+          {
             "id": "c3fc62c6ca8846f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3 - Zettlekaster - Permanent/Multi Ledger.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Multi Ledger"
+            }
+          },
+          {
+            "id": "12ca62560b499254",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Tags/data replication.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "data replication"
+            }
+          },
+          {
+            "id": "efb2a326cf02ae4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Tags/data partition.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "data partition"
             }
           }
         ]
@@ -199,8 +285,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3fc62c6ca8846f7",
+  "active": "734271e0b4b4435e",
   "lastOpenFiles": [
+    "3 - Zettlekaster - Permanent/Multi Ledger.md",
+    "3 - Zettlekaster - Permanent/Single Ledger.md",
+    "4 - Tags/data replication.md",
+    "4 - Tags/data partition.md",
     "3 - Zettlekaster - Permanent/PACELC - PC EL and PA EC examples.md",
     "3 - Zettlekaster - Permanent/Best developer onboarding is being an developer.md",
     "3 - Zettlekaster - Permanent/Measure infra costs.md",
@@ -216,7 +306,6 @@
     "3 - Zettlekaster - Permanent/Do not use incremental ids as partition key.md",
     "3 - Zettlekaster - Permanent/Horizontal vs Vertical partition.md",
     "3 - Zettlekaster - Permanent/Database partition techniques.md",
-    "4 - Tags/database partition.md",
     "3 - Zettlekaster - Permanent/Partition prune.md",
     "3 - Zettlekaster - Permanent/Hot partition.md",
     "3 - Zettlekaster - Permanent/ELB, ALB and NLB.md",
@@ -224,9 +313,6 @@
     "3 - Zettlekaster - Permanent/OCC.md",
     "3 - Zettlekaster - Permanent/DuckDB.md",
     "3 - Zettlekaster - Permanent/MVCC.md",
-    "4 - Tags/algorithm.md",
-    "3 - Zettlekaster - Permanent/LSM Tree.md",
-    "algoriithm.md",
     "Pasted image 20250616111644.png",
     "docker-compose.yml",
     "Pasted image 20260204144116.png",

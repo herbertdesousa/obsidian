@@ -1,5 +1,5 @@
 Date: 2026-02-03
-Tags: [[database partition]]
+Tags: [[data partition]]
 
 - Range: based on continuous data, like date on time-series. [[Do not use incremental ids as partition key]]
 - List: ...
